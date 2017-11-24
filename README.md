@@ -5,7 +5,7 @@
 
 須安裝[R](https://www.r-project.org/)以及R語言的[rvest](https://github.com/hadley/rvest)套件
 
-* 安裝rvest
+安裝rvest
 ```
 install.packages("rvest")
 ```
