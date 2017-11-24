@@ -1,6 +1,15 @@
 # cosmed-store-list
 使用R語言rvest套件，擷取康是美門市列表。
 
+資料來源： [康是美門市查詢](https://www.cosmed.com.tw/Contact/Shop_list.aspx)
+![webpage](/screenshots/webpage.png?raw=true "webpage")
+
+輸出結果（csv檔）： 
+![webpage](/screenshots/store_list_csv.png?raw=true "webpage")
+
+
+
+
 ## Requirements
 
 須安裝[R](https://www.r-project.org/)以及R語言的[rvest](https://github.com/hadley/rvest)套件
