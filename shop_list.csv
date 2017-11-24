@@ -1,0 +1,803 @@
+"","門市名稱","門市網址","門市地址","門市電話","營業時間"
+"1","富農門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=519","台南市東區裕農路766號","036-3317533","假日:9-23
+平日:9-23"
+"2","惠德門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=518","南投縣草屯鎮太平路二段240.242號","049-2306517","假日:10-22
+平日:10-22"
+"3","竹東門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=517","新竹縣竹東鎮長春路三段34號1、2樓","03-5100865","平日:09:00-22:00
+假日:09:00-22:00"
+"4","森北門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=516","台北市中山區林森北路426號","02-25678783","平日:10:00-22:00
+假日:10:00-22:00"
+"5","101門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=515","台北市信義區信義路五段7號B1","02-81017701","週一~週六:08:30-22:00
+週日:10:00-22:00"
+"6","五甲藥局","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=514","高雄市鳳山區五甲二路754號1、2樓","07-8121586","平日10:00-23:00
+假日10:00-23:00"
+"7","永興門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=513","新北市中和區中和路412號1、2樓","02-29212516","平日09:00-23:00
+假日09:00-23:00"
+"8","松安門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=512","台中市西屯區松竹路二段172號","04-22476137","平日09:00-23:00
+假日09:00-23:00"
+"9","超越門市(新光三越B2)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=511","台中市西屯區台灣大道三段301號B2","04-22549441","平日11:00-22:00
+假日11:00-22:00"
+"10","美新門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=510","新北市新店區中正路213號","02-29131587","平日08:00-23:00
+假日08:00-23:00"
+"11","溪湖藥局","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=509","彰化縣溪湖鎮西環路365號","04-8818617","平日9:00~22:00
+假日9:00~22:00"
+"12","西門門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=508","台北市萬華區西寧南路60號","02-23617537","平日: 10:00-23:00
+假日(週五~六): 10:00-24:00"
+"13","東英門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=507","台中市東區十甲路450號","04-22139034","09:00-23:00"
+"14","新苗栗門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=506","苗栗縣苗栗市光復路24.26號","037-372463","平日 09:00-22:30
+假日 09:00-22:30"
+"15","美港門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=505","高雄市苓雅區三多四路106號","07-2693055","平日 09:00-24:00
+假日 09:00-24:00"
+"16","新仁一門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=499","基隆市仁愛區仁一路165號1樓、165之1號1樓、167號1樓","02-24259138","平日0900-2300
+假日0900-2300"
+"17","新麗林門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=498","新北市林口區竹林路46號","02-86012468","平日0900-2300
+假日0900-2300"
+"18","文大門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=497","台北市士林區華岡路55號(大忠館)","02-28623563","週一~週五:08:00-22:00
+週六週日:不營業"
+"19","大安門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=496","台北市大安區信義路四段54號","02-27080127","平日0800-2300
+假日0800-2300"
+"20","八德門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=495","桃園市八德區介壽路一段836、838號","03-3611446","平日0900-2230
+假日0900-2230"
+"21","北車門市(B3)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=494","台北市中正區忠孝西路一段49號","02-23117477","平日0700-2300
+假日0700-2300"
+"22","新延和門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=493","新北市土城區立德路105號","02-22645952","平日0900-2300
+假日0900-2300"
+"23","員大門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=492","彰化縣員林鎮大同路一段455號","04-8338106","平日0900-2200
+假日0900-2200"
+"24","新中福門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=491","桃園市中壢區中正路104號","03-4252461","平日 0930-2230
+假日 0930-2230"
+"25","新竹南門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=490","苗栗縣竹南鎮延平路105號","037-461424","平日 0900-2230
+假日 0900-2230"
+"26","長樂門市(B1)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=489","基隆市安樂區安樂路二段164號","02-24319748","平日 0900-2300
+假日 1000-2300"
+"27","嘉南門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=488","嘉義市東區吳鳳南路360號","05-2308509","平日 1000-2200
+假日 1000-2200"
+"28","安和門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=487","台北市大安區信義路四段261號","02-27083614","平日 0800-2300
+假日 0800-2300"
+"29","麗山門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=486","台北市內湖區內湖路一段419號","02-26271465","平日 0800-2300
+假日 0900-2300"
+"30","漢中門市(1.2.3樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=485","台北市萬華區漢中街47號","02-23815329","週一~週四、周日1000-24
+周五、周六1000-0100"
+"31","大成門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=484","桃園市楊梅區大成路68號","03-4883401","平日 0900-2300
+假日 0900-2300"
+"32","民雄門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=483","嘉義縣民雄鄉中樂村昇平路36號","05-2267170","平日 0900-2200
+假日 0900-2200"
+"33","華榮門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=482","高雄市鼓山區華榮路203號","07-5524957","平日 1000-2300
+假日 0900-2300"
+"34","東門門市(B1)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=481","台北市大安區信義路2段166號","02-23518212","平日 0800-2300
+假日 0800-2300"
+"35","桃府門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=480","桃園市桃園區縣府路306號","03-3368901","平日 0900-2300
+假日 0900-2300"
+"36","新福門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=479","台中市太平區中山路4段129號","04-23952540","平日 1000-2300
+假日 1000-2300"
+"37","饒河門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=478","台北市松山區饒河街247號","02-27489583","平日 1300-0100
+假日 1300-0100"
+"38","新海山門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=476","新北市土城區裕民路86號","02-22646815","平日 0900-2300
+假日 0800-2300"
+"39","新鶯歌門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=475","新北市鶯歌區建國路226號","02-26798406","平日 0800-2300
+假日 0800-2300"
+"40","風采門市(1.2.3樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=474","台北市中正區延平南路103號","02-23701411","平日 0800-2300
+假日 0800-2300"
+"41","一中門市(1.2.3樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=473","台中市北區一中街31號","04-22255016","平日 1100-2300
+假日 1100-2300"
+"42","南西門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=472","台北市大同區南京西路316號","02-25491678","平日 0900-2300
+假日 0900-2300"
+"43","新黎明門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=471","台中市南屯區黎明路二段425號","04-22511907","平日 1000-2300
+假日 1000-2300"
+"44","昌平門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=470","新北市新莊區中原路139號","02-29900832","平日 0900-2300
+假日 0900-2300"
+"45","左冠門市(2F)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=469","高雄市左營區站前北路1號","07-5883632","平日 1100-2130
+假日 1100-2200"
+"46","新大甲門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=468","台中市大甲區順天里3鄰蔣公路136號","04-26801077","平日 1000-2230
+假日 0900-2230"
+"47","新中友門市(B棟B2)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=467","台中市北區三民路三段161號","04-22290796","平日 1100-2200
+假日 1030-2200"
+"48","博華門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=466","高雄市鼓山區博愛二路343號","07-5539485","平日 0900-2300
+假日 0900-2300"
+"49","百成門市(B2)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=465","台南市東區前鋒路210號","06-2087091","平日 1100-2200
+假日 1100-2200"
+"50","新連城門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=464","新北市中和區連城路353號","02-22235901","平日 0900-2300
+假日 0900-2300"
+"51","高榮門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=463","高雄市左營區榮總路181號","07-3509473","平日 0830-2230
+假日 0830-2230"
+"52","花博門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=462","台北市大同區酒泉街39號","02-25956848","平日 0800-2300
+假日 0900-2300"
+"53","藝文門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=461","桃園市桃園區中正路1063號","03-3259756","平日 0900-2300
+假日 0800-2330"
+"54","芝山門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=460","台北市士林區福華路164巷6號","02-28347494","平日 0800-2330
+假日 0900-2330"
+"55","歸仁門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=459","台南市歸仁區民權北路35號","06-2308648","平日 0900-2300
+假日 0900-2300"
+"56","新后里門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=458","台中市后里區甲后路一段539號","04-25584033","平日0900-2200
+假日0900-2200"
+"57","新大坪門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=457","新北市新店區民權路17號","02-89145984","平日0800-2300
+假日0800-2300"
+"58","新大墩門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=456","台中市西屯區大墩路907.909號","04-23268921","平日0900-2300
+假日0900-2300"
+"59","興大門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=455","台中市南區學府路48號","04-22856236","平日10:00-23:00
+假日10:00-23:00"
+"60","泰山門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=454","新北市泰山區泰林路二段189號","02-85314804","平日0900-2300
+假日0900-2300"
+"61","未來門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=453","新北市林口區仁愛路二段516號","02-26015847","平日0900-2300
+假日0900-2300"
+"62","漢寧門市(1樓右邊部份)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=452","台北市中正區漢口街一段3、5、9、11號","02-23120975","平日 0800-2330
+假日 0800-2330"
+"63","美景門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=451","高雄市鼓山區美術東二路5號","07-5526443","平日0900-2300
+假日0900-2300"
+"64","健行門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=450","台中市西區健行路1042號","04-23231067","平日 0900-2330
+假日 0900-2330"
+"65","深坑門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=449","新北市深坑區北深路3段249號","02-26628644","平日0800-2300
+假日0800-2300"
+"66","蘆竹門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=448","桃園市蘆竹區中山路42號","03-3114672","平日0900-2300
+假日0900-2300"
+"67","長榮門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=446","新北市蘆洲區長榮路418號","02-82860546","平日0900-2300
+假日0900-2300"
+"68","新雙連門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=445","台北市中山區民生西路23號","02-25117308","平日0730-2330
+假日0730-2330"
+"69","頂運門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=444","新北市永和區永和路二段116號","02-29294322","平日 0800-2330
+假日 0800-2330"
+"70","新大溪門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=443","桃園市大溪區慈湖路127號1樓","03-3882619","平日0900-2300
+假日0900-2300"
+"71","延吉門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=442","台北市大安區忠孝東路四段250號","02-87714448","平日 0800-2330
+假日 0900-2330"
+"72","歐風1號門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=441","新竹市東區關新路36號","03-5679335","平日1000-2300
+假日1000-2300"
+"73","竹站門市(B1)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=440","新竹市東區民族路2號","03-5247314","平日1100-2130
+週六1100-2200"
+"74","新龍騰門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=439","基隆市仁愛區愛四路78號","02-24276264","平日1000-0100
+假日1000-0100"
+"75","時尚1號(B1)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=438","高雄市前鎮區中華五路789號","07-8232897","平日 1100-2200
+假日 1030-2230"
+"76","新中山門市(B1)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=437","台南市中西區中山路162號","06-2228454","平日1100-2200
+假日1100-2200"
+"77","新天地門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=436","台南市中西區西門路一段658號B2","06-3030025","平日1100-2200
+假日1100-2200"
+"78","彩虹門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=435","高雄市左營區高鐵路115號","07-3450374","平日1100-2200
+假日1100-2200"
+"79","基河門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=434","台北市士林區基河路128號","02-28839403","平日1000-2300
+假日1000-2300"
+"80","喜來登門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=433","新竹縣竹北市十興里光明六路東一段241號","03-6577570","平日 0900-2230
+假日 0900-2230"
+"81","新尊吉門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=432","台北市北投區實踐街30號","02-28218193","平日0900-2300
+假日0900-2300"
+"82","新太平門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=431","台中市太平區中興路106、108號","04-23514920","平日0900-2230
+假日0900-2230"
+"83","清水門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=430","台中市清水區中山路106號","04-26221459","平日 0900-2200
+假日 0900-2200"
+"84","新泉源門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=429","台北市北投區中和街294號","02-28916207","平日 0800-2300
+假日 0800-2300"
+"85","新百中門市(10樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=428","台中市西屯區台灣大道三段251號","04-22548649","平日 1100-2200
+假日 1030-2200"
+"86","淡捷門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=427","新北市淡水區中正路1號","02-26227640","平日 0800-2300
+假日 0800-2330"
+"87","新統領門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=426","台北市大安區忠孝東路4段181巷6號","02-87710951","平日 0900-2400
+假日 0900-2400"
+"88","薇閣門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=425","台北市中山區敬業三路11號","02-85021684","平日 0800-2330
+假日 0800-2300"
+"89","新龍安門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=424","桃園市桃園區龍安街134號","03-3602109","平日 0900-2300
+假日 0900-2300"
+"90","武廟門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=423","高雄市苓雅區武廟路133-1號","07-7260449","平日 0900-2300
+假日 0900-2300"
+"91","美術東門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=421","高雄市鼓山區美術東五路66號","07-5526390","平日 0900-2300
+假日 0900-2300"
+"92","新佳里門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=420","台南市佳里區延平路233號","06-7233045","平日 0900-2230
+假日 0900-2230"
+"93","屏廣門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=418","屏東縣屏東市廣東路66號","08-7212502","平日 0900-2230
+假日 0900-2230"
+"94","南紡門市(B1)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=417","台南市東區東光里1鄰中華東路一段366號","06-2086010","平日 1100-2200
+假日 1100-2200"
+"95","松捷門市(B1(B3.B4))","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=416","台北市信義區松山路11號","02-27483828","平日 0700-2300
+假日 0700-2300"
+"96","新宜東門市(1.2.3.4樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=415","宜蘭縣羅東鎮興東路8-2號","03-9562708","平日 0900-2300
+假日 0900-2300"
+"97","忠勇門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=414","台中市南屯區忠勇路105-27號","04-23804497","平日 0900-2300
+假日 0900-2300"
+"98","新大庄門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=413","新竹市香山區大庄路39、41號","03-5399456","平日 0900-2230
+假日 0900-2230"
+"99","新虎林門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=412","台北市信義區忠孝東路5段468號","02-87868269","平日 0800-2330
+假日 0800-2330"
+"100","大東運門市(1.2.3樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=411","台北市士林區大東路11之6號","02-28835386","平日 1200-0100
+假日 1100-0100"
+"101","嘉藥門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=410","台南市仁德區二仁路一段161號、163號","06-2662681","平日 0900-2230
+假日 0900-2230"
+"102","福德門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=408","台北市信義區福德街280號","02-27590865","平日 0900-2300
+假日 0900-2300"
+"103","新汐樟門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=407","新北市汐止區樟樹一路132號","02-26904076","平日 0900-2300
+假日 0900-2300"
+"104","逢星門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=406","台中市西屯區福星路431.431-1號","04-24524278","平日 1000-0100
+假日 1000-0100"
+"105","潭子門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=405","台中市潭子區勝利路185號","04-25344038","平日 0900-2300
+假日 0900-2300"
+"106","權站門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=404","台北市中山區民權西路40 及40-1號","02-25221786","平日 0800-2300
+假日 0900-2300"
+"107","新遠板門市 (B1(295))","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=403","新北市板橋區中山路一段152號","02-29567290","平日 1100-2200
+假日 1100-2200"
+"108","大公益門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=402","台中市西區公益路128號","04-23217287","平日 0900-2300
+假日 0900-2300"
+"109","新和運","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=400","新北市中和區興南路一段55-1號","02-29435263","平日 1000-2400
+假日 1000-2400"
+"110","林口門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=399","新北市林口區文化三路一段327、329號","02-26005844","平日 0800-2300
+假日 0800-2300"
+"111","新斗六門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=398","雲林縣斗六市大同路32號","05-5374111","平日 0900-2300
+假日 0900-2330"
+"112","微風門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=397","台北市大安區復興南路一段125號1樓","02-27754585","平日 0800-2300
+假日(五.六) 0800-2400"
+"113","樹運門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=396","新北市樹林區博愛一街37號1樓","02-86755335","平日0800-2300
+假日0800-2300"
+"114","北斗門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=395","彰化縣北斗鎮中華路270 、274號","04-8872185","平日0900-2200
+假日0900-2200"
+"115","墾丁門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=394","屏東縣恆春鎮墾丁路165號","08-8861243","平日1100-2430
+假日1100-2430"
+"116","大新竹門市(1,2,3樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=393","新竹市東區中正路19號","03-5249364","平日0900-2230
+假日0900-2230"
+"117","新衡運門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=392","台北市中正區衡陽路93號","02-23703393","平日0800-2300
+假日0800-2300"
+"118","新通運門市(B1)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=391","台北市中正區忠孝西路一段50-1號","02-23821673","平日0800-2300
+假日0800-2300"
+"119","新林園門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=389","高雄市林園區東林西路99號、101號","07-6417941","平日 0900-2300
+假日 0900-2300"
+"120","虎尾藥局","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=388","雲林縣虎尾鎮中正路258、258-1號","05-6328411","平日0900-2300
+假日0900-2300"
+"121","義冠門市(B1)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=387","高雄市大樹區學城路一段12號","07-6569516","平日1100-2200
+平日1000-2200"
+"122","新家專門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=385","台南市永康區中正路561、563號","06-2433956","6/27-9/3暑假期間
+營業時間調整為 0900-2300"
+"123","新新莊門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=384","新北市新莊區中正路164號1樓","02-29949247","平日0800-2300
+假日0800-2300"
+"124","廣三門市(廣三SOGO B1)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=383","台中市西區臺灣大道二段459號","04-23281605","平日1100-2200
+假日1030-2200"
+"125","板高門市(B1)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=381","新北市板橋區縣民大道2段7號","02-89697494","平日0700-2300
+假日0700-2300"
+"126","楓康門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=380","台中市大里區成功路171號","04-24954025","平日0900-2300
+假日0900-2300"
+"127","鹿港門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=379","彰化縣鹿港鎮民權路87號","04-7773091","平日0900-2200
+假日0900-2200"
+"128","童綜合門市(B1)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=378","台中市梧棲區台灣大道8段699號","04-26567160","平日 0800-2200
+W日 1000-1800"
+"129","頂盛門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=376","新北市新莊區民安西路135號1樓","02-22040804","平日0930-2300
+假日0930-2300"
+"130","新通化門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=375","台北市大安區通化街28號","02-27555276","平日0900-2400
+假日0900-2400"
+"131","新美都門市(B1)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=374","高雄市苓雅區三多四路21號","07-3383591","平日  1100-2200
+W5.6 1100-2230"
+"132","興昌門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=373","台中市北屯區興安路一段289號","04-22472463","平日0900-2300
+假日0900-2300"
+"133","豐百門市(B1)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=372","台中市豐原區復興路2號","04-25254427","平日1100-2200
+假日1100-2200"
+"134","都會1號門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=371","桃園市蘆竹區大竹路379 381 號","03-3239094","平日0800-2300
+假日0800-2300"
+"135","嘉文門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=370","嘉義市東區文化路76號","05-2277606","週日至週四 1000-2330
+週五至週六 1000-2400"
+"136","壢永門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=369","桃園市中壢區福州二街396號1樓","03-4558392","平日0900-2300
+假日0900-2300"
+"137","新光門市(B2)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=368","高雄市左營區高鐵路123號","07-3504104","平日 1100-2200
+假日 1100-2200"
+"138","大埔門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=273","彰化縣彰化市大埔路540號","04-7117007","平日09：00-22：00
+假日09：00-22：00"
+"139","雲斗門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=274","雲林縣斗六市民生南路55號","05-5371374","平日10：00-23：00
+假日10：00-23：00"
+"140","新興門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=275","新北市新店區中正路31號","02-29107021","平日08：00-23：00
+假日08：00-23：00"
+"141","新雄文門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=278","高雄市苓雅區廣州一街143-7號","07-2238460","平日 0900-2300
+假日 0900-2300"
+"142","莊敬門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=280","台北市信義區莊敬路466-1、466-2、472號","02-27209049","平日08：00-23：00
+假日08：00-23：00"
+"143","苑裡門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=281","苗栗縣苑裡鎮大同路16號","037-856481","平日09：00-22：30
+假日09：00-22：30"
+"144","五股門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=282","新北市五股區成泰路二段 71、73號","02-82927214","平日08：00-23：00
+假日08：00-23：00"
+"145","三民門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=1","新北市蘆洲區復興路76、78號","02-82858984","平日09：00-23：00
+假日09：00-23：00"
+"146","大寮門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=199","高雄市大寮區鳳林四路14之2號","07-7813509","平日10：00-23：00
+假日10：00-23：00"
+"147","大湖門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=200","台北市內湖區成功路四段363號","02-27954291","平日08：00-23：00
+假日08：00-23：00"
+"148","公館門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=201","台北市中正區羅斯福路四段24巷12弄12號","02-23657215","平日:1100-2300
+假日:1000-2400"
+"149","國際門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=202","桃園市桃園區國際路一段1193號","03-3694806","平日09：00-23：00
+假日09：00-23：00"
+"150","鳳甲門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=205","高雄市鳳山區新富路452號","07-7634412","平日09：00-23：00
+假日09：00-23：00"
+"151","崑大門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=206","台南市永康區大灣路927-1號","06-2071490","平日09：00-23：00
+假日10：00-23：00"
+"152","新正昌門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=207","桃園市桃園區中正路568號","03-3338661","平日 0900-2330
+假日 0900-2330"
+"153","統強門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=208","台南市永康區正強街207號","06-2015148","平日 0900-2300
+假日 0900-2300"
+"154","集美門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=209","新北市三重區集美街204號","02-29745748","平日08：00-23：00
+假日08：00-23：00"
+"155","靜宜門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=210","台中市沙鹿區北勢東路586、588、590號","04-26522801","平日09：00-23：00
+假日09：00-23：00"
+"156","北大門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=212","新北市三峽區大學路154號","02-86714233","平日 0800-2330
+假日 0800-2330"
+"157","新城門市(B1)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=214","新北市板橋區新站路28號","02-29648508","平日 1100-2200
+假日 1100-2200"
+"158","頂竹門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=216","新竹市東區南大路256號","03-5619017","平日09：00-22：30
+假日09：00-22：30"
+"159","松航門市(松山機場國際航廈1F)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=218","台北市松山區敦化北路340-9號","02-25464573","平日06：00-22：00
+假日06：00-22：00"
+"160","橋站門市(環球板橋店--板橋火車站B1)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=220","新北市板橋區縣民大道2段7號","02-89699202","平日 0700-2200
+週五.六.日 0700-2200"
+"161","東軍門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=221","台中市北屯區東山路1段250-2號","04-24366933","平日09：00-23：00
+假日10：00-23：00"
+"162","新宏台門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=222","台中市西屯區西屯路3段150之38號","04-24623972","平日09：00-23：00
+假日09：00-23：00"
+"163","中醫門市(兒童醫療大樓一樓商場)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=223","台中市北區學士路95號","04-22075797","平日0730-2230
+假日0730-2230"
+"164","新美村門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=224","台中市西區美村路一段651、653號","04-23786295","平日09：00-23：00
+假日09：00-23：00"
+"165","新東港門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=225","屏東縣東港鎮中正路135號","08-8328419","平日09：00-23：00
+假日09：00-23：00"
+"166","金門門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=226","金門縣金城鎮民族路7-5、7-7、7-9號","082-324875","平日 0800-2330
+假日 0800-2330"
+"167","菜寮門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=2","新北市三重區重新路3段146、148號1樓","02-29747932","平日0930-2300
+假日0930-2300"
+"168","鐵家門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=4","新竹縣竹北市自強南路211號1樓","03-6587641","平日0900-2300
+假日0900-2300"
+"169","苗府門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=5","苗栗縣苗栗市府前路155號1樓","037-353341","平日0900-2230
+假日0900-2230"
+"170","員站門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=6","彰化縣員林鎮靜修路52-7號1樓","04-8394867","平日0900-2200
+假日0900-2200"
+"171","台北橋門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=7","新北市三重區重新路2段5號1樓","02-29847293","平日0900-2400 
+假日0900-2400"
+"172","新青年門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=76","台北市萬華區青年路8號","02-23327594","平日0800-2300
+假日0800-2300"
+"173","南平門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=8","桃園市桃園區同安街442號1樓","03-3589573","平日 0900-2330
+假日 0900-2330"
+"174","站前門市(B1)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=184","台北市中正區忠孝西路一段49號","02-23117690","平日0700-2330
+假日0700-2330"
+"175","內埔門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=360","屏東縣內埔鄉廣濟路111號1樓","08-7783509","平日0900-2200
+假日0900-2200"
+"176","康國門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=363","台南市永康區復國一路417號1樓","06-2017223","平日0900-2300
+假日0900-2300"
+"177","新松江門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=19","台北市中山區長安東路二段51號","02-25423134","平日08：00-23：00
+假日09：00-23：00"
+"178","湖美門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=362","新竹縣湖口鄉中正路一段40.42號","03-5904813","平日0900-2230
+假日0900-2230"
+"179","大昌門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=364","高雄市三民區大昌二路231號","07-3985754","平日 0900-2300
+假日 0900-2300"
+"180","福王門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=361","高雄市鹽埕區五福四路92.94號","07-5313152","平日 0900-2300
+假日 0900-2300"
+"181","青草湖門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=365","新竹市東區南大路615號","03-5621334","平日0900-2300
+假日0900-2300"
+"182","慶城門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=366","台北市松山區慶城街14號","02-25468135","平日0800-2330
+假日0800-2330"
+"183","葫洲門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=367","台北市內湖區民權東路6段296巷33號","02-26309825","平日0800-2300
+假日0900-2300"
+"184","永百門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=87","新北市永和區中山路一段222、224號","02-29276071","平日09：30-23：30
+假日09：30-23：30"
+"185","亞東門市(1樓、B1)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=89","新北市板橋區南雅南路二段128號","02-89668217","平日0800-2300
+假日0900-2300"
+"186","淡金門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=90","新北市淡水區中山北路一段103號","02-26297495","平日 0800-2300
+假日 0800-2330"
+"187","新台門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=91","新北市汐止區新台五路一段183號","02-86421734","平日09：00-23：00
+假日09：00-23：00"
+"188","永春門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=92","台北市信義區忠孝東路五段361、363號","02-27654530","平日09：00-23：00
+假日09：00-23：00"
+"189","澎湖門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=95","澎湖縣馬公市中正路83號","06-9266581","平日09：00-23：00
+假日09：00-23：00"
+"190","德行門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=96","台北市士林區德行東路109巷106號1樓","02-28317730","平日08：00-23：00
+假日08：00-23：00"
+"191","百福門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=99","基隆市七堵區百三街57、59號","02-24529419","平日09：00-24：00
+假日09：00-24：00"
+"192","義民門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=100","新北市蘆洲區民族路126、128號","02-82815071","平日09：00-23：00
+假日09：00-23：00"
+"193","北安門市(2F之7)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=102","台北市中山區北安路616號1樓及608巷3號","02-85096406","平日08：00-23：00
+假日09：00-23：00"
+"194","華德門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=103","新北市板橋區四川路二段47巷1弄1號1樓","02-89675962","平日08：00-23：00
+假日08：00-23：00"
+"195","新政大門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=104","台北市文山區指南路二段79號","02-86611033","平日 0900-2300
+假日 0900-2300"
+"196","永寧門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=105","新北市土城區中央路三段108、110號","02-22696248","平日09：00-23：00
+假日09：00-23：00"
+"197","高昌門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=106","高雄市三民區大昌一路6號1樓","07-3832284","平日09：00-23：00
+假日09：00-23：00"
+"198","龍江門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=107","台北市中山區龍江路334號1樓","02-25168792","平日08：00-23：00
+假日08：00-23：00"
+"199","精誠門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=109","台中市西區精誠路15-1號","04-23298132","平日10：00-23：00
+假日10：00-24：00(週五.六)"
+"200","裕誠門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=110","高雄市左營區裕誠路426號","07-5565880","平日09：00-23：00
+假日09：00-23：00"
+"201","西園門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=111","台北市萬華區西園路二段219號","02-23031276","平日09：00-23：00
+假日09：00-23：00"
+"202","幸福門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=112","新北市新莊區幸福路762號","02-29906863","平日08：00-23：00
+假日08：00-23：00"
+"203","雄越門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=113","高雄市前鎮區文橫三路59號1樓","07-3381832","平日09：00-23：00
+假日09：00-23：00"
+"204","烏日門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=114","台中市烏日區仁德村中山路一段417號","04-23367597","平日08：00-23：00
+假日08：00-23：00"
+"205","員山門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=115","新北市中和區員山路325-3號","02-22215632","平日10：00-24：00
+假日10：00-24：00"
+"206","內壢門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=116","桃園市中壢區忠孝路64、66號","03-4514413","平日 0900-2300
+假日 0900-2300"
+"207","民安門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=118","新北市新莊區民安路151號","02-22044394","平日08：00-23：00
+假日08：00-23：00"
+"208","嘉義門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=119","嘉義市西區垂楊路742號","05-2279859","平日 09:00-23:00
+假日 09:00-23:00"
+"209","崇學門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=120","台南市東區崇學路54號","06-2903571","平日09：00-23：00
+假日09：00-23：00"
+"210","吉林門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=124","台北市中山區農安街129號1樓","02-25968673","平日09：00-23：00
+假日09：00-23：00"
+"211","新建華門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=125","台北市松山區南京東路四段137號1樓","02-27136574","平日0800-2300
+假日0900-2300"
+"212","宜蘭門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=126","宜蘭縣宜蘭市中山路三段21號1樓","03-9334943","平日08：00-23：00
+假日08：00-23：00"
+"213","興隆門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=127","台北市文山區興隆路四段155號1樓","02-22348210","平日09：00-23：00
+假日09：00-23：00"
+"214","彰和門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=129","彰化縣彰化市和平路46號","04-7287662","平日09：00-22：30
+假日09：00-22：30"
+"215","嘉山門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=130","嘉義市西區中山路541號","05-2274833","平日10：00-23：00
+假日09：00-23：00"
+"216","復興門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=12","台北市中山區復興北路62號","02-27505414","平日08：00-23：00
+假日09：00-23：00"
+"217","大成都門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=14","台北市萬華區成都路52 、54號","02-23830143","平日0900-0200
+假日0900-0200"
+"218","民東門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=16","台北市松山區民權東路三段104號","02-25457623","平日08：00-23：00
+假日09：00-23：00"
+"219","興北門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=17","台北市中山區復興北路164號","02-25140522","平日08：00-23：00
+假日09：00-23：00"
+"220","敦北門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=18","台北市松山區敦化北路147號","02-25469332","平日08：00-23：00
+假日08：00-23：00"
+"221","湯城門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=20","新北市三重區重新路5段609巷10之5號","02-29992243","平日 0730-2100
+星期六.日.國定假日不營業"
+"222","開元門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=21","台南市北區開元路302號","06-2086346","平日 0900-2300
+假日 0900-2330"
+"223","天台門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=256","新北市三重區重新路2段78號","02-29740760","平日24HR
+假日24HR"
+"224","興安門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=22","台北市中山區興安街97號","02-25176433","平日08：00-23：00
+假日09：00-23：00"
+"225","復錦門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=257","台北市中山區復興北路354號","02-25022904","平日07：00-23：00
+假日08：00-23：00"
+"226","承德門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=24","台北市大同區承德路一段29號、長安西路59號","02-25491889","平日08：00-23：00
+假日10：00-23：00"
+"227","松山門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=25","台北市信義區松山路105號","02-27617882","平日08：00-24：00
+假日08：00-24：00"
+"228","淡大門市(1樓、B1)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=26","新北市淡水區北新路182巷5弄48號","02-26215373","暑假期間(6/19-9/18)調整營業如下:
+週一~週五: 10:00-23:00
+週六:10:00-22:00
+週日:11:00-23:00"
+"229","北醫門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=27","台北市信義區吳興街265號","02-27201452","平日08：00-23：00
+假日08：00-23：00"
+"230","保平門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=28","台北市大同區延平北路二段198號","02-25539910","平日 0800-2330
+假日 0900-2330"
+"231","龍運門市(B1)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=29","台北市萬華區西園路一段153號","02-23027016","平日08：00-23：00
+假日08：00-23：00"
+"232","永康門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=59","台北市大安區永康街7之2號","02-23916412","平日09：00-23：00
+假日09：00-23：00"
+"233","長壽門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=258","新北市三重區三和路二段75號1樓","02-29760245","平日09：00-01：00
+假日09：00-01：00"
+"234","竹林門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=227","新北市永和區竹林路199號1樓","02-89250872","平日09：00-23：00
+假日09：00-23：00"
+"235","士林門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=228","台北市士林區文林路165號1樓","02-28810698","平日11：00-24：00
+假日11：00-01：00"
+"236","長庚門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=259","桃園市龜山區復興一路78號1樓","03-2114974","平日08：00-23：00
+假日08：00-23：00"
+"237","松錦門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=229","台北市中山區松江路307號","02-25028381","平日 0800-2300
+假日 0800-2330"
+"238","林森門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=230","台北市中山區林森北路282-1號","02-25684741","平日24HR
+假日24HR"
+"239","明湖門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=231","台北市內湖區東湖路47號1樓","02-26335494","平日10：00-23：00
+假日10：00-23：00"
+"240","晴安門市(1樓、B1)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=232","台北市中山區農安街14號","02-25955807","平日0800-0100
+假日0800-0100"
+"241","台安門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=233","台北市松山區八德路二段435號","02-27510525","平日08：00-23：00
+假日09：00-23：00"
+"242","板站門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=234","新北市板橋區中山路一段13號","02-29643571","平日10：00-23：30
+假日10：00-23：30"
+"243","安居門市(1樓、B1)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=235","台北市大安區安居街5號","02-87325645","平日08：00-23：30
+假日08：00-23：30"
+"244","聯運門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=260","台北市南港區忠孝東路六段446號","02-27857243","平日08：00-23：30
+假日08：00-23：30"
+"245","福運門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=236","台北市大安區羅斯福路三段297-4號1樓","02-23639839","平日08：00-23：00
+假日08：00-23：00"
+"246","仕運門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=238","台北市士林區中正路235巷2號","02-28837471","平日0730-2330
+假日0730-2330"
+"247","吉祥門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=240","台北市松山區南京東路五段156號","02-27656322","平日 0800-2330
+假日 1000-2300"
+"248","英專門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=261","新北市淡水區英專路25號","02-26206912","平日/週日09：00-23：00
+週六09：00-23：00"
+"249","德運門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=241","新北市新店區北新路一段307號","02-29162841","平日 0800-2300
+假日 0800-2330"
+"250","永吉門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=242","台北市信義區永吉路30巷104號","02-27651954","平日08：00-24：00
+假日08：00-24：00"
+"251","總運門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=243","台北市北投區石牌路二段46號","02-28219942","平日 0800-2330
+假日 0800-2330"
+"252","埔運門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=244","新北市板橋區文化路一段391號","02-22550478","平日0800-2330
+假日0800-2330"
+"253","屏豐門市(B1)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=262","屏東縣屏東市中正路72號","08-7322954","平日 1100-2200
+假日 1030-2200"
+"254","新越門市(B1)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=245","桃園市桃園區中正路19號","03-3478217","週一到週四&amp;週日1100-2130
+週五&amp;週六1100-2200"
+"255","富運門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=246","台北市大安區復興南路二段279號","02-27014264","平日08：00-23：00
+假日08：00-23：00"
+"256","慶達門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=247","新北市板橋區國慶路147號","02-29538401","平日09：00-23：00
+假日09：00-23：00"
+"257","寧波門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=249","台北市中正區寧波西街11號","02-23432427","平日08：00-23：00
+假日09：00-23：00"
+"258","逸仙門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=252","台北市信義區忠孝東路四段502號","02-27200947","平日 0700-2300
+假日 0900-2300"
+"259","延德門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=253","新北市土城區延吉街239號","02-22641439","平日09：00-23：30
+假日08：00-23：30"
+"260","竹百門市(B1)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=255","新竹市東區西大路323號","03-5285398","平日 1100-2200
+假日 1100-2200"
+"261","萬芳門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=30","台北市文山區興隆路三段88號","02-29336436","平日08：00-23：00
+假日08：00-23：00"
+"262","奇美門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=31","台南市永康區大武街34號","06-2523912","平日09：00-23：00
+假日09：00-23：00"
+"263","麗湖門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=32","台北市內湖區內湖路一段737巷47號","02-87510323","平日08：00-23：00
+假日08：00-23：00"
+"264","北平門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=33","台中市北區北平路二段98號","04-22993105","平日09：00-24：00
+假日09：00-24：00"
+"265","新倫門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=34","台北市松山區八德路三段74巷10號","02-25798783","平日08：00-23：00
+假日08：00-23：00"
+"266","廟口門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=36","基隆市仁愛區仁三路50號","02-24257673","週一~週五10：00-01：00
+週日10:00-01:00
+週六10：00-24：00"
+"267","新東門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=37","台北市松山區民生東路五段236號","02-27479824","平日08：00-23：00
+假日09：00-23：00"
+"268","大翠運門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=38","新北市板橋區雙十路二段142號","02-82526634","平日08：00-23：30
+假日08：00-23：30"
+"269","馬偕門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=39","新北市淡水區民生路56號","02-88095683","平日08：00-23：00
+假日08：00-23：00"
+"270","高站門市(高雄火車站)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=40","高雄市三民區建國二路318號","07-2357263","平日08：00-23：00
+假日08：00-23：00"
+"271","景運門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=43","台北市文山區景中街3號","02-29334284","平日09：00-24：00
+假日09：00-24：00"
+"272","光明門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=44","台北市北投區光明路29、31號","02-28913893","平日08：00-23：00
+假日08：00-23：00"
+"273","北峰門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=45","新北市汐止區福德一路262號1樓","02-26933249","平日 1000-2300
+假日 1000-2330"
+"274","景新門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=46","新北市中和區景新街440號","02-29400574","平日09：00-23：00
+假日09：00-23：00"
+"275","七張門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=47","新北市新店區北新路二段107號","02-89111640","平日08：00-23：00
+假日08：00-23：00"
+"276","新湖門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=49","台北市內湖區內湖路一段287號","02-26279415","平日08：00-23：30
+假日08：00-23：30"
+"277","蘆安門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=52","新北市蘆洲區長安街123號","02-82850663","平日10：00-24：00
+假日10：00-24：00"
+"278","新德門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=53","台南市南區大同路二段114號","06-2134411","平日10：00-23：00
+假日10：00-23：00"
+"279","永華門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=58","台南市永康區中華路149號","06-3127217","平日10：00-23：00
+假日10：00-23：00"
+"280","五華門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=60","新北市三重區五華街126號","02-89858796","平日09：00-23：00
+假日09：00-23：00"
+"281","智行門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=62","台北市北投區知行路306號","02-28588643","平日08：00-23：00
+假日08：00-23：00"
+"282","明德門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=63","台北市北投區明德路88號","02-28238952","平日 0800-2300
+假日 0900-2330"
+"283","福民門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=65","新北市新店區中央路147號1樓","02-22194971","平日09：00-23：00
+假日09：00-23：00"
+"284","文湖門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=66","台北市內湖區成功路四段56號1樓","02-87914357","平日08：00-23：00
+假日08：00-23：00"
+"285","汐站門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=68","新北市汐止區忠孝東路265號","02-86923426","平日09：00-24：00
+假日09：00-24：00"
+"286","樹站門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=69","新北市樹林區後站街10號","02-26819279","平日08：00-23：00
+假日08：00-23：00"
+"287","權德門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=70","台北市大同區民權西路145號","02-25994211","平日10：00-23：00
+假日10：00-23：00"
+"288","豐隆門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=71","基隆市中正區新豐街385號","02-24695754","平日09：00-23：00
+假日09：00-23：00"
+"289","頂站門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=72","新北市永和區永和路二段241-1號","02-29219383","平日09：00-23：00
+假日09：00-23：00"
+"290","中原門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=73","桃園市中壢區實踐路78號1樓","03-4381297","平日1000-2330
+週五至週日1000-2430"
+"291","城美門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=75","新北市土城區中央路二段181、183號1樓","02-22662644","平日09：00-23：00
+假日09：00-23：00"
+"292","清華門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=77","新竹市東區建功一路45-1號","03-5744242","平日09：00-23：00
+假日10：00-23：00"
+"293","佳樂門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=79","台北市南港區南港路二段8.10號","02-26534801","平日08：00-23：00
+假日08：00-23：00"
+"294","統翔門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=80","桃園市桃園區中平路91號1樓","03-2288547","平日09：00-23：00
+假日09：00-23：00"
+"295","酒泉門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=81","台北市大同區酒泉街66號","02-25955693","平日08：00-23：00
+假日08：00-23：00"
+"296","大業門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=84","桃園市桃園區大業路一段150號1樓","03-3479178","平日09：00-23：00
+假日09：00-23：00"
+"297","汐成門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=85","新北市汐止區建成路80號","02-86921496","平日09：00-23：00
+假日09：00-23：00"
+"298","長峽門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=86","新北市三峽區民生街106號","02-86723435","平日09：00-23：00
+假日09：00-23：00"
+"299","新營門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=309","台南市新營區民權路6、8號","06-6320940","平日  0830-2230
+W5.6 0830-2300"
+"300","新民新門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=310","台北市松山區民生東路五段119-1號1樓","02-37652339","平日08：00-23：00
+假日08：00-23：00"
+"301","崇德門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=311","台南市東區崇德路619號","06-2904439","平日10：00-23：00
+假日10：00-23：00"
+"302","康莊門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=312","新北市新莊區中平路301號1樓","02-29906871","平日 0900-2300
+假日 0800-2300"
+"303","東榮門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=313","台中市大里區東榮路8號1樓","04-24832591","平日09：00-22：00
+假日09：00-22：00"
+"304","耐斯門市(B1櫃位)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=314","嘉義市東區忠孝路600號","05-2767955","平日11：00-22：00
+假日11：00-22：30"
+"305","朴子門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=315","嘉義縣朴子市海通路41-2、41-3號1樓","05-3706743","平日09：00-22：30
+假日09：00-22：30"
+"306","建高門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=317","高雄市三民區建工路625、625-1、625-2號1樓","07-3807237","平日09：00-23：00
+假日09：00-23：00"
+"307","德賢門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=320","高雄市楠梓區德賢路473號1樓","07-3644939","平日 0800-2300
+假日 0800-2300"
+"308","東勢門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=321","台中市東勢區豐勢路391、393、395號1樓","04-25772457","平日08：00-22：30
+假日08：00-22：30"
+"309","和美門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=322","彰化縣和美鎮彰美路五段355號1樓","04-7556467","平日09：00-22：00
+假日09：00-22：00"
+"310","善化門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=324","台南市善化區中正路474.474-1.474-2號一樓","06-5850462","平日09：00-23：00
+假日09：00-23：00"
+"311","新豐門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=325","新竹縣新豐鄉建興路一段93之2號","03-5576547","平日09：00-22：30
+假日09：00-22：30"
+"312","金典門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=326","台南市南區金華路二段59號","06-2646917","平日09：00-23：00
+假日09：00-23：00"
+"313","六合門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=327","高雄市新興區六合二路1號一樓","07-2859465","平日 1000-0130
+假日 1000-0200"
+"314","摩登1號","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=328","高雄市楠梓區建楠路166號一樓","07-3529646","平日09：00-23：00
+假日09：00-23：30"
+"315","大統門市(B1)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=329","高雄市苓雅區和平一路218號","07-2230249","平日11：00-22：00
+假日10：30-22：30"
+"316","奉化門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=330","桃園市蘆竹區忠孝西路202號1樓","03-3214391","平日08：00-23：00
+假日08：00-23：00"
+"317","竹興門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=331","新竹縣竹北市新社里中正西路132號1樓","03-5539671","平日09：00-22：30
+假日09：00-22：30"
+"318","霧峰門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=335","台中市霧峰區中正路854號","04-23398041","平日09：00-23：00
+假日09：00-23：00"
+"319","臥龍門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=336","台北市大安區和平東路3段7號1樓","02-27089042","平日08：00-23：00
+假日08：00-23：00"
+"320","蓮冠門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=338","花蓮縣花蓮市中山路549-1號","03-8326562","平日09：00-23：00
+假日09：00-23：00"
+"321","路竹門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=339","高雄市路竹區忠孝路58.60號一樓","07-6967460","平日09：00-23：00
+假日09：00-23：00"
+"322","湖口門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=340","新竹縣湖口鄉仁和路123號一樓","03-5972109","平日09：00-23：00
+假日09：00-23：00"
+"323","景和門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=341","新北市中和區景安路162號一樓","02-22432846","平日08：00-24：00
+假日08：00-24：00"
+"324","鐵站門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=272","台南市東區北門路一段314號","06-2227047","平日08：00-23：00
+假日09：00-23：30"
+"325","龍東門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=342","桃園市中壢區龍東路215、217號","03-4366440","平日08：00-23：00
+假日08：00-23：00"
+"326","南投門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=343","南投縣南投市三和三路37號","049-2240722","平日09：00-22：00
+假日09：00-22：00"
+"327","新小港門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=344","高雄市小港區漢民路311號","07-8068317","平日10：00-23：00
+假日10：00-23：00"
+"328","吉安門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=345","花蓮縣吉安鄉中山路3段16.18.20號","03-8547043","平日09：00-23：00
+假日09：00-23：00"
+"329","錦州門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=346","台北市中山區錦州街219號1樓","02-25372396","平日08：00-23：00
+假日09：00-23：00"
+"330","文橫門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=347","高雄市苓雅區文橫二路41號","07-3381641","平日09：00-23：00
+假日09：00-23：00"
+"331","中興門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=348","桃園市龜山區中興路一段14.16號","03-3507497","平日 0800-2300
+假日 0800-2300"
+"332","新岡山門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=349","高雄市岡山區壽天路117號","07-6214764","平日 0900-2300
+假日 0900-2300"
+"333","風城門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=350","新竹市東區民生路192號","03-5340810","平日09：00-23：00
+假日09：00-23：00"
+"334","壢新門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=351","桃園市中壢區新生路53號一樓","03-4261473","平日09：00-23：00
+假日09：00-23：00"
+"335","東昇門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=352","台東縣臺東市新生路207號1樓","089-347583","平日 1000-2200
+假日 1000-2230"
+"336","向心門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=353","台中市南屯區向心南路967號1樓","04-23804162","平日 0900-2300
+假日 0900-2300"
+"337","永安門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=355","新北市中和區中和路362號1樓","02-29265891","平日08：00-24：00
+假日08：00-24：00"
+"338","三和門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=356","新北市三重區三和路四段109號","02-82876587","平日08：00-24：00
+假日08：00-24：00"
+"339","龍潭門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=357","桃園市龍潭區中正路180、182號","03-4991093","平日08：00-22：30
+假日08：00-22：30"
+"340","龍門門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=359","新北市三重區仁愛街39、41號","02-29763449","平日 0800-2400
+假日 0800-2400"
+"341","新中正門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=134","台北市中正區信義路二段1號","02-23967058","平日08：00-23：00
+假日08：00-23：00"
+"342","民治門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=135","新北市板橋區民治街125號1樓","02-22508523","平日09：00-23：00
+假日09：00-23：00"
+"343","萬隆門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=136","台北市文山區羅斯福路五段216之2號1樓","02-89317412","平日08：00-23：00
+假日08：00-23：00"
+"344","左營門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=137","高雄市左營區華夏路1180號1樓","07-3413837","平日09：00-23：00
+假日09：00-23：00"
+"345","新東興門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=138","台北市松山區南京東路五段264號1樓","02-27658820","平日08：00-23：00
+假日10：00-23：00"
+"346","十八甲門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=139","新北市泰山區全興路214號、仁愛路132號","02-85317472","平日08：00-23：00
+假日08：00-23：00"
+"347","曉陽門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=140","彰化縣彰化市曉陽路36號1樓","04-7220629","平日09：00-22：00
+假日09：00-22：00"
+"348","雙安門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=142","桃園市桃園區民生路86號1樓","03-3471721","平日09：00-23：00
+假日09：00-23：00"
+"349","安平門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=143","台南市安平區永華路二段760號1樓","06-2985724","平日 0930-2300
+假日 0930-2300"
+"350","花蓮門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=144","花蓮縣花蓮市中正路546、548號","03-8324037","平日09：00-23：00
+假日09：00-23：00"
+"351","大雅門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=148","台中市大雅區中清東路191號","04-25606799","平日09：00-23：00
+假日09：00-23：00"
+"352","福壽門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=149","新北市新莊區福壽街88號1樓","02-89922521","平日09：00-24：00
+假日09：00-24：00"
+"353","頭份門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=151","苗栗縣頭份市中正路121、123號1樓","037-662774","平日09：00-22：30
+假日09：00-22：30"
+"354","五分埔門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=155","台北市信義區永吉路527號1樓","02-27617683","平日  1000-2400
+W5.6 1000-0100"
+"355","河堤門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=156","高雄市三民區明仁路8號1樓","07-3456514","平日09：00-23：00
+假日09：00-23：00"
+"356","豐原門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=157","台中市豐原區中正路120號","04-25153032","平日09：00-23：00
+假日09：00-23：00"
+"357","樹華門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=158","新北市樹林區中華路130號","02-86848699","平日08：00-23：00
+假日09：00-23：00"
+"358","鳳青門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=159","高雄市鳳山區青年路二段455號1樓","07-7806056","平日10：00-23：00
+假日09：00-23：00"
+"359","麻豆門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=161","台南市麻豆區興中路70號1樓","06-5711055","平日 0900-2230
+假日 0900-2230"
+"360","台東門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=163","台東縣臺東市中華路一段405、407號","089-347385","平日 1000-2230
+假日 1000-2230"
+"361","亭運門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=164","台北市大安區和平東路一段21號1樓","02-23213281","平日08：00-23：00
+假日08：00-23：00"
+"362","縣府門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=266","新竹縣竹北市縣政九路145號1樓","03-5554195","平日09：00-23：00
+假日09：00-22：30"
+"363","劍潭門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=167","台北市士林區劍潭路13號1樓","02-28833490","平日08：00-23：30
+假日09：00-23：00"
+"364","河南門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=169","台中市西屯區河南路二段264號1樓","04-24529934","平日09：00-23：00
+假日10：00-24：00"
+"365","公園門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=171","台南市中西區公園路60號1樓","06-2219201","平日 1100-2200
+週六 1100-2230"
+"366","後昌門市(1.2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=172","高雄市楠梓區後昌路856號","07-3647457","平日09：00-23：00
+假日09：00-23：00"
+"367","南崁門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=173","桃園市蘆竹區南竹路一段66號1樓","03-3128166","平日09：00-23：00
+假日09：00-23：00"
+"368","鳳勝門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=176","高雄市鳳山區中山路126-2號","07-7407964","平日09：00-23：00
+假日09：00-23：00"
+"369","新長順門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=179","台北市中山區林森北路111號1樓","02-25236327","平日 0900-0300
+假日 0900-0300"
+"370","吳興門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=182","台北市信義區吳興街141號1樓","02-27586839","平日08：00-23：00
+假日08：00-23：00"
+"371","新金山門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=185","新竹市東區金山街10號","03-5679634","平日 1000-2300
+假日 1000-2300"
+"372","海佃門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=186","台南市安南區海佃路一段126號","06-3585832","平日10：00-23：00
+假日10：00-23：00"
+"373","東海門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=187","台中市龍井區新興路20、20-1號1樓","04-26319812","平日09：00-23：00
+假日09：00-23：00"
+"374","康橋門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=188","台南市中西區中正路220號","06-2221593","平日10：00-23：00
+假日10：00-23：00"
+"375","高醫門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=189","高雄市三民區十全一路100號1樓","07-3223324","平日07：00-23：00
+假日07：00-23：00"
+"376","得和門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=191","新北市永和區得和路376號1樓","02-29403425","平日09：00-23：00
+假日09：00-23：00"
+"377","夢時代門市(7樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=192","高雄市前鎮區中華五路789號","07-8230095","平日11:00-22：00
+假日10:30-22：30"
+"378","民竹門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=193","新北市淡水區民族路60號1樓","02-88097329","平日09：00-23：00
+假日09：00-23：00"
+"379","同安門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=194","台北市中正區同安街41之1號","02-23671705","平日09：00-23：00
+假日09：00-23：00"
+"380","新頂旺門市(B1)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=268","新北市中和區中山路三段122號","02-22286348","平日11：00-22：00
+假日11：00-22：00"
+"381","景安門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=269","新北市中和區景平路506、508號1樓","02-22464434","平日08：00-23：00
+假日08：00-23：00"
+"382","左大門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=196","高雄市左營區左營大路63、63之1號1樓","07-5859675","平日09：00-23：00
+假日09：00-23：00"
+"383","後山埤門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=197","台北市南港區忠孝東路六段8號1樓","02-27859509","平日08：00-23：00
+假日08：00-23：00"
+"384","員林門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=198","彰化縣員林鎮民權街1號1樓","04-8361320","平日09：00-22：30
+假日09：00-22：30"
+"385","明曜門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=289","台北市大安區忠孝東路四段216巷32弄20號1樓","02-87714435","平日08：00-23：00
+假日08：00-23：00"
+"386","頂東門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=290","台北市大安區大安路一段43號1樓","02-27769375","平日09：00-24：00
+假日09：00-24：00"
+"387","大買家門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=291","台中市大里區大明路315號","04-24824587","平日09：00-22：30
+假日09：00-22：30"
+"388","雙十門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=292","新北市板橋區雙十路三段28號1樓","02-22545663","平日08：00-23：00
+假日09：00-23：00"
+"389","北新門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=293","新北市新店區民權路39號","02-29118744","平日 0800-2330
+假日 0800-2330"
+"390","逢甲門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=296","台中市西屯區福星路297號","04-24524046","平日 1000-2400
+假日 1000-2400"
+"391","新漢門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=297","台中市西屯區漢口路二段142號1樓","04-23158709","平日 0900-2300
+假日 0900-2300"
+"392","成大門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=300","台南市東區勝利路118號","06-2091967","平日09：00-23：00
+假日09：00-23：00"
+"393","海合門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=301","桃園市中壢區六和路76號","03-4224904","平日 0930-2300
+假日 0930-2330"
+"394","新化門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=303","台南市新化區中山路241號","06-5907747","平日09：00-22：30
+假日09：00-22：30"
+"395","六張犁門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=304","台北市信義區基隆路二段201-1號1樓及崇德街3號1樓","02-27338499","平日 0800-2330
+假日 0800-2330"
+"396","潮州門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=305","屏東縣潮州鎮新生路40號1樓","08-7892940","平日10：00-22：00
+假日09：30-22：30"
+"397","沙鹿門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=306","台中市沙鹿區沙田路133號1樓","04-26625683","平日09：00-23：00
+假日09：00-23：00"
+"398","西華門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=270","台北市松山區復興北路313巷30號1樓","02-25452182","平日08：00-23：00
+假日09：00-23：00"
+"399","埔里門市(1、2樓)","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=271","南投縣埔里鎮中正路393號","049-2980478","平日09：00-22：00
+假日09：00-22：00"
+"400","光復門市","https://www.cosmed.com.tw/Contact/Shop_intro.aspx?ID=307","新竹市東區光復路一段483號","03-6686840","平日10：00-23：00
+假日10：00-23：00"
