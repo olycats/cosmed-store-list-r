@@ -23,16 +23,36 @@ install.packages("rvest")
 > [https://olycats.github.io/2017/11/24/ubuntu-rvest/](https://olycats.github.io/2017/11/24/ubuntu-rvest/)
 
 
+## Code structure
+```
+cosmed-store-list
+├── output
+├── pages
+└── screenshots
+
+```
+
+
+File/Folder          |	Description
+ --------------------| ------------------------------------------------ 
+.gitignore           | gitignore
+output               | 網頁爬蟲的結果，check_list.csv、shop_list.csv兩個檔案
+pages 	             | 網頁html檔儲存的路徑
+screenshots          | README.md使用的截圖
+README.md            | README
+store-list-crawler.R | 網頁爬蟲的程式碼（R語言）
+
+
 ## 執行
 因執行結果會將檔案輸出在目前的工作目錄，
-開啟R後，請先確認目前的工作目錄。
+開啟R後，請先確認目前的工作目錄是否在這個目錄（cosmed-store-list）
 ```
 getwd()
 ```
 
-若您有指定的路徑，請自行設定工作目錄。
+若路徑錯誤，請自行設定工作目錄。
 ```
-setwd(dir)
+setwd(<dir>)
 ```
 
 ## 輸出結果
@@ -53,13 +73,14 @@ setwd(dir)
     其中「營業時間」包含換行字元。
 
 * check_list.csv
-    除標題欄、標題列之外，共有4欄 * 1列。
 
-    欄位名稱  |資料範例
+    除標題欄、標題列之外，共有2欄 * 4列。
+
+       A欄   | B欄
     -------- | ---------------------------------- 
     開始時間  |	2017年11月24日 星期五 01:48:35 
     結束時間  |	2017年11月24日 星期五 01:48:57 
-    第一頁    |      https://www.cosmed.com.tw/Contact/Shop_list.aspx?pg=1 
+    第一頁    | https://www.cosmed.com.tw/Contact/Shop_list.aspx?pg=1 
     最後一頁  |	https://www.cosmed.com.tw/Contact/Shop_list.aspx?pg=67 
 
 ## 我的開發環境：
