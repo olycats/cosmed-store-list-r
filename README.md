@@ -76,12 +76,12 @@ setwd(<dir>)
 
     除標題欄、標題列之外，共有2欄 * 4列。
 
-       A欄   | B欄
+    A欄      | B欄
     -------- | ---------------------------------- 
-    開始時間  |	2017年11月24日 星期五 01:48:35 
-    結束時間  |	2017年11月24日 星期五 01:48:57 
-    第一頁    | https://www.cosmed.com.tw/Contact/Shop_list.aspx?pg=1 
-    最後一頁  |	https://www.cosmed.com.tw/Contact/Shop_list.aspx?pg=67 
+    開始時間  |	 2017年11月24日 星期五 01:48:35 
+    結束時間  |	 2017年11月24日 星期五 01:48:57 
+    第一頁    |  https://www.cosmed.com.tw/Contact/Shop_list.aspx?pg=1 
+    最後一頁  |	 https://www.cosmed.com.tw/Contact/Shop_list.aspx?pg=67 
 
 ## 我的開發環境：
 * Ubuntu 16.04.3 LTS
