@@ -1,11 +1,11 @@
-# cosmed-store-list
+# cosmed-store-list-r
 使用R語言rvest套件，擷取康是美門市列表。
 
 資料來源： [康是美門市查詢](https://www.cosmed.com.tw/Contact/Shop_list.aspx)
 ![webpage](/screenshots/webpage.png?raw=true "webpage")
 
 輸出結果（csv檔）： 
-![webpage](/screenshots/store_list_csv.png?raw=true "webpage")
+![webpage](/screenshots/shop_list_csv.png?raw=true "webpage")
 
 
 
@@ -60,7 +60,7 @@ setwd(<dir>)
 
 * shop_list.csv
 
-    除標題欄、標題列之外，共有6欄 * N列。
+    除標題欄、標題列之外，共有5欄 * N列。
 
     欄位名稱  |資料範例
     -------- | ---------------------------------- 
@@ -76,12 +76,12 @@ setwd(<dir>)
 
     除標題欄、標題列之外，共有2欄 * 4列。
 
-    A欄      | B欄
+       A欄   | B欄
     -------- | ---------------------------------- 
-    開始時間  |	 2017年11月24日 星期五 01:48:35 
-    結束時間  |	 2017年11月24日 星期五 01:48:57 
-    第一頁    |  https://www.cosmed.com.tw/Contact/Shop_list.aspx?pg=1 
-    最後一頁  |	 https://www.cosmed.com.tw/Contact/Shop_list.aspx?pg=67 
+    開始時間  |	2017年11月24日 星期五 01:48:35 
+    結束時間  |	2017年11月24日 星期五 01:48:57 
+    第一頁    | https://www.cosmed.com.tw/Contact/Shop_list.aspx?pg=1 
+    最後一頁  |	https://www.cosmed.com.tw/Contact/Shop_list.aspx?pg=67 
 
 ## 我的開發環境：
 * Ubuntu 16.04.3 LTS
